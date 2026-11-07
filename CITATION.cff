@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it using the metadata
+  from this file.
+title: >-
+  Analysis code for null-hypothesis tests of an anomalous pixel
+  group in a single photograph
+abstract: >-
+  R code implementing three component null-hypothesis tests of
+  whether an anomalous group of bright pixels in a single
+  photograph is consistent with sensor noise, lens-flare
+  ghosting, or ordinary scene lighting in a shaded tree line.
+  Includes veiling-glare correction, a generalized Pareto scan
+  statistic with look-elsewhere correction, and a sensitivity
+  analysis across detection thresholds and tail quantiles.
+type: software
+authors:
+  - family-names: Woolman
+    given-names: Thomas A.
+    orcid: "https://orcid.org/0000-0002-4120-2157"
+    affiliation: "On Target Technologies, Inc., Ridgeley, West Virginia, USA"
+    email: twoolman@ontargettek.com
+license: MIT
+version: 3.0.0
+keywords:
+  - null hypothesis testing
+  - image analysis
+  - extreme value theory
+  - generalized Pareto distribution
+  - look-elsewhere effect
+  - Monte Carlo
+  - photographic anomaly
