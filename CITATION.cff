@@ -27,9 +27,9 @@ version: 3.0.0
 date-released: "2026-11-11"
 repository-code: "https://github.com/twoolman/battle-mountain-anomaly-nulltest"
 url: "https://github.com/twoolman/battle-mountain-anomaly-nulltest"
-# doi: ADD THE ZENODO CONCEPT DOI HERE AFTER THE FIRST RELEASE IS ARCHIVED,
-# then commit this file again. Zenodo reads CITATION.cff on each release, so
-# the DOI recorded here appears in the metadata of every later version.
+# Concept DOI: resolves to all versions and always redirects to the latest.
+# The version DOI for v3.0.0 specifically is 10.5281/zenodo.24139414.
+doi: "10.5281/zenodo.24139413"
 keywords:
   - null hypothesis testing
   - image analysis
