@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: >-
-  If you use this software, please cite it using the metadata
-  from this file.
+  If you use this software, please cite the archived release using
+  the metadata in this file.
 title: >-
   Analysis code for null-hypothesis tests of an anomalous pixel
   group in a single photograph
@@ -12,7 +12,9 @@ abstract: >-
   ghosting, or ordinary scene lighting in a shaded tree line.
   Includes veiling-glare correction, a generalized Pareto scan
   statistic with look-elsewhere correction, and a sensitivity
-  analysis across detection thresholds and tail quantiles.
+  analysis across detection thresholds and tail quantiles. The
+  source photograph is distributed with the code so that the
+  analysis is reproducible as published.
 type: software
 authors:
   - family-names: Woolman
@@ -22,9 +24,16 @@ authors:
     email: twoolman@ontargettek.com
 license: MIT
 version: 3.0.0
+date-released: "2026-11-11"
+repository-code: "https://github.com/twoolman/battle-mountain-anomaly-nulltest"
+url: "https://github.com/twoolman/battle-mountain-anomaly-nulltest"
+# doi: ADD THE ZENODO CONCEPT DOI HERE AFTER THE FIRST RELEASE IS ARCHIVED,
+# then commit this file again. Zenodo reads CITATION.cff on each release, so
+# the DOI recorded here appears in the metadata of every later version.
 keywords:
   - null hypothesis testing
   - image analysis
+  - image forensics
   - extreme value theory
   - generalized Pareto distribution
   - look-elsewhere effect
