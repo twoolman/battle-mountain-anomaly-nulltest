@@ -30,6 +30,21 @@ url: "https://github.com/twoolman/battle-mountain-anomaly-nulltest"
 # Concept DOI: resolves to all versions and always redirects to the latest.
 # The version DOI for v3.0.0 specifically is 10.5281/zenodo.24139414.
 doi: "10.5281/zenodo.24139413"
+references:
+  - type: article
+    title: >-
+      Testing an Anomalous Photograph Against Ordinary Image-Forming
+      Mechanisms: A Null Hypothesis Framework and a Single-Case
+      Demonstration from Battle Mountain, Virginia, USA
+    authors:
+      - family-names: Woolman
+        given-names: Thomas A.
+        orcid: "https://orcid.org/0000-0002-4120-2157"
+    year: 2026
+    doi: "10.21203/rs.3.rs-11707102"
+    notes: >-
+      Preprint on Research Square, not peer reviewed. This is the
+      manuscript that reports the results produced by this software.
 keywords:
   - null hypothesis testing
   - image analysis

@@ -149,8 +149,15 @@ no manuscript text and no results.
 Release v3.0.0 is archived on Zenodo at
 [10.5281/zenodo.24139413](https://doi.org/10.5281/zenodo.24139413).
 
-A manuscript reporting these results is being released as a preprint. This
-section will carry the preprint DOI once it is posted.
+The manuscript reporting these results is posted as a preprint on Research
+Square:
+
+> Woolman, T. A. (2026). *Testing an Anomalous Photograph Against Ordinary
+> Image-Forming Mechanisms: A Null Hypothesis Framework and a Single-Case
+> Demonstration from Battle Mountain, Virginia, USA* [Preprint]. Research
+> Square. https://doi.org/10.21203/rs.3.rs-11707102/v1
+
+The preprint is not peer reviewed.
 
 ## How to cite
 
